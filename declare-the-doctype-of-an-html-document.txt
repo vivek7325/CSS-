@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+  <h1> doctype html 5 version </h1>
+  </html>
